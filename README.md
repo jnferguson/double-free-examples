@@ -10,3 +10,5 @@ function pointers which have pioneered the bypass to the stack cookie, and GCC n
 
 In some instances, we have some rather neat conditions where you can bypass vptr verification and have 2 objects occupy the same memory, a sort of schrodinger's object condition. 
 There is at present no real method for preventing related attacks, beyond ensuring that double free conditions do not occur.
+
+(atlanta, seattle - as the paper was moving along my work contract was suddenly canceled and relocated to SEA where I was never given time to work on anything until I punted with the expectation that BH would come back after editing and review. I'm probably the reason they have a board for that sort of thing now, just like I'm probably the reason the SF86 has that last page on it now.)
